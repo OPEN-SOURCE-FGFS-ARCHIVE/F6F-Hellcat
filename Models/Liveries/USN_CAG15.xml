@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <sim>
+
+    <model>
+      <livery>
+        <name type="string">USS Essex CAG-15, Cdr D. McCampbell 34 kills</name>
+        <texture>Liveries/USN_CAG15.png</texture>
+        
+      </livery>
+    </model>
+
+  </sim>
+
+</PropertyList>
